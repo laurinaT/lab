@@ -1,0 +1,1 @@
+console.log("\n##### Exemple de variables ##### \n");
