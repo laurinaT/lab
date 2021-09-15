@@ -103,3 +103,17 @@ else {
     {
         console.log("Très bien");
     }
+
+    // Exercice 7
+
+    var meal
+    {
+        "foodtype" : "meat"
+        "cookedat" : "80"
+        "temperature" : "60"
+    }
+
+    if (meal["temperature"] === meal[cookedat])
+    {
+        ;
+    }
